@@ -1,9 +1,5 @@
-EECS 3221
 Project 2: Priority CPU Scheduling for xv6
-
-Student Name: Hojun Jeon
-Student Number: 218877696
-Date: 29 March 2026
+Hojun Jeon
 
 --------------------------------------------------
 1. Overview
